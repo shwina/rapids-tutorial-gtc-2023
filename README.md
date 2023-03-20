@@ -1,6 +1,6 @@
 # Introduction to RAPIDS cuDF and cuML - GTC 2023
 
-This repository contains the code for the NVIDIA GTC 2023 "Introduction to RAPIDS" talk.
+This repository contains the code for the NVIDIA GTC 2023 [Introduction to RAPIDS](https://www.nvidia.com/gtc/session-catalog/#/session/1666311693102001I3Qd) talk.
 
 `NYCTaxi.ipynb` contains the code from the talk, and shows how to use the [cuDF](https://docs.rapids.ai/api/cudf/stable/) and [cuML](https://docs.rapids.ai/api/cuml/stable/) libraries in a GPU-accelerated data science pipeline.
 
